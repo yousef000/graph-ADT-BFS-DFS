@@ -1,0 +1,16 @@
+Graph.c
+Yousef Dost
+ydost@ucsc.edu
+PA5
+README File
+
+PA5 Files:
+
+1) FindComponents.c : A test client for the Graph ADT. It will take two command line arguments giving the names of an input file and an output file. The input can be any text file. The output file will contain graph. And also strongly connected components. 
+2) List.c : An integer List ADT
+
+3) Graph.c : A Graph ADT that can perform both BFS, and DFS.
+
+4) MakeFile : Unaltered file provided by the instructor. 
+
+5) GraphTest.c : Tests the functions of Graph.c
